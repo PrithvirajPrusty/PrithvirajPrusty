@@ -1,1 +1,124 @@
-# Prithviraj
+<h1 align="center">Hi 👋, I'm S.Prithviraj Prusty</h1>
+
+<h3 align="center">
+Backend Developer • Java Enthusiast • Spring Boot Learner
+</h3>
+
+<p align="center">
+Building scalable backend applications with Java and Spring Boot
+</p>
+
+ 👨‍💻 About Me
+
+Passionate Java Backend Developer focused on building scalable, secure, and high-performance applications. I enjoy transforming ideas into real-world solutions through clean code, efficient system design, and modern backend technologies.
+
+🚀 Developing robust backend applications using Java, Spring Boot, and REST APIs
+
+🔐 Implementing secure authentication and authorization with Spring Security
+
+🗄️ Designing efficient database solutions with MySQL
+
+🏗️ Exploring Microservices Architecture, Docker, and Cloud Technologies
+
+💡 Strong believer in continuous learning, problem-solving, and writing maintainable code
+
+📚 Currently enhancing my expertise in enterprise application development and distributed systems
+
+🤝 Open to collaborating on innovative Java and Spring Boot projects
+
+My goal is to become a proficient Backend Engineer capable of designing enterprise-grade systems that are scalable, reliable, and impactful.
+
+---
+
+ 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Technologies
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+ 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrithvirajPrusty&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrithvirajPrusty&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🔐 Secure Authentication System | JWT authentication with role-based authorization | Spring Boot, Spring Security, JWT, MySQL |
+| 🛒 E-Commerce REST API | Complete backend for e-commerce operations | Spring Boot, REST API, Hibernate, MySQL |
+| 🏦 Banking Management System | Secure banking and transaction management | Spring Boot, MySQL, Spring Security |
+| 📋 Task Management API | Task tracking and productivity backend | Spring Boot, PostgreSQL, Hibernate |
+| 🐳 Microservices Project | Distributed services with Docker | Spring Boot, Microservices, Docker |
+---
+
+<h2 align="center">🤝 Let's Collaborate</h2>
+
+<p align="center">
+🚀 Open to collaborating on Backend Development, Spring Boot, and Java projects.
+</p>
+
+<p align="center">
+💡 Interested in open-source contributions, innovative ideas, and real-world software solutions.
+</p>
+
+<p align="center">
+🌱 Always learning, building, and exploring new technologies.
+</p>
+
+<p align="center">
+⚡ Fun Fact: I enjoy debugging challenging issues almost as much as building new features 😄
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sprithvirajprusty">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:prithvirajprusty@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+
+<p align="center">
+📫 Feel free to connect with me for collaborations, open-source contributions, or backend development discussions.
+</p>
+<p align="center">
+<div align="center">
+ Thanks for Visiting 👋
+I appreciate you taking the time to explore my profile.
+</div>
+</p>

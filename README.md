@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Prithviraj%20Prusty&fontSize=45&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=slice&color=0:36D1DC,100:5B86E5&height=200&text=Prithviraj%20Prusty&fontSize=42&fontColor=ffffff)
 <h1 align="center">Hi 👋, I'm S.Prithviraj Prusty</h1>
 
 <h3 align="center">
